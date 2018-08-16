@@ -37,6 +37,7 @@ class OAuth2ClientTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @var FooFacebookClientForOAuth2Test
+     * linha de teste
      */
     protected $client;
 
